@@ -1,4 +1,4 @@
-# ui_automation-jojonomic
+# How to run UI Automation using cypress.io
 
 UI automation using cypress
 1. read this to install cypress on your computer https://docs.cypress.io/guides/getting-started/installing-cypress
